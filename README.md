@@ -58,7 +58,7 @@ Los marcos no se usan en paralelo, sino en distintos momentos del flujo: se avan
 Si activas **GitHub Pages** en este repositorio (*Settings → Pages → Branch: `main`*), el taller queda disponible en una URL como:
 
 ```
-https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/Threat-Modeling.html
+https://InstitutoCiberinteligencia.github.io/Threat-Modeling/Threat-Modeling.html
 ```
 
 Así los alumnos pueden abrirlo sin descargar nada.
