@@ -46,22 +46,24 @@ Los marcos no se usan en paralelo, sino en distintos momentos del flujo: se avan
 
 ## Cómo usarlo
 
+> ℹ️ **Importante:** la vista normal del archivo en GitHub muestra el *código fuente*, no el taller. Para abrir el laboratorio usa una de estas opciones.
+
 ### Opción A — Descargar y abrir (recomendada para alumnos)
 
-1. Entra a la pestaña **Code** del repositorio y descarga `Threat-Modeling.html`
-   (o usa el botón verde **Code → Download ZIP** para todo el repo).
-2. Haz doble clic en el archivo: se abre en tu navegador.
+1. Abre el archivo y haz clic en **Download raw file**, o descarga directamente desde:
+   `https://github.com/InstitutoCiberinteligencia/Threat-Modeling/raw/refs/heads/main/Threat-Modeling.html`
+2. Haz doble clic en el archivo descargado: se abre en tu navegador.
 3. ¡Listo! No requiere internet ni instalación.
 
 ### Opción B — Abrir directo en el navegador (GitHub Pages)
 
-Si activas **GitHub Pages** en este repositorio (*Settings → Pages → Branch: `main`*), el taller queda disponible en una URL como:
+Activa **GitHub Pages** en el repositorio (*Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `/ (root)`*). En un par de minutos el taller queda disponible en:
 
 ```
-https://InstitutoCiberinteligencia.github.io/Threat-Modeling/Threat-Modeling.html
+https://institutociberinteligencia.github.io/Threat-Modeling/Threat-Modeling.html
 ```
 
-Así los alumnos pueden abrirlo sin descargar nada.
+Así los alumnos solo abren el enlace, sin descargar nada. Es la opción más cómoda para repartir en clase.
 
 ## Flujo del taller (7 fases · 90 min)
 
