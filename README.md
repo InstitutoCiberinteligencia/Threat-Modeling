@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Duraci%C3%B3n-90%20min-7FD4B4">
   <img src="https://img.shields.io/badge/Formato-HTML%20%C3%BAnico-92CDE6">
   <img src="https://img.shields.io/badge/Sin%20dependencias-offline-5FBF9E">
+  <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC%204.0-6FC9C2">
   <img src="https://img.shields.io/badge/Oneiros-Academy-6FC9C2">
 </p>
 
@@ -94,12 +95,17 @@ Así los alumnos solo abren el enlace, sin descargar nada. Es la opción más c�
 ├── Threat-Modeling.html      # El laboratorio (todo en un archivo)
 ├── assets/
 │   └── Oneiros-light-horizontal.png   # Logo para este README (opcional)
+├── LICENSE                   # CC BY-NC 4.0
 └── README.md
 ```
 
 ## Créditos
 
 Desarrollado para **Oneiros Academy** como material de formación en ciberseguridad e inteligencia de amenazas.
+
+## Licencia
+
+Este material se distribuye bajo licencia **Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**: puedes compartirlo y adaptarlo dando crédito, pero no usarlo con fines comerciales. Consulta el archivo [`LICENSE`](LICENSE) para más detalles.
 
 ---
 
